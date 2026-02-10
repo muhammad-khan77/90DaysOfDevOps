@@ -1,6 +1,6 @@
 # DevOps 90 Days Course with TWS
 
-# 🚀 My 90-Day DevOps Study Plan
+#  My 90-Day DevOps Study Plan
 
 ## Overview
 
